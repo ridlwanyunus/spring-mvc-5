@@ -1,5 +1,8 @@
 <html>
+<head>
+	<title>Welcome, we will learn Spring MVC 5</title>
+</head>
 <body>
-<h2>Hello World!</h2>
+<a href="student/showForm">Student Show Form</a>
 </body>
 </html>
